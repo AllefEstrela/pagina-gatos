@@ -12,3 +12,7 @@ Abra o arquivo `index.html` no navegador.
 ## O que eu aprendi
 - Criar estrutura básica de um documento HTML.
 - Estilizar elementos com CSS.
+<<<<<<< HEAD
+=======
+
+>>>>>>> de010184c43541ed27cd204bc7d646ccfc688a16
